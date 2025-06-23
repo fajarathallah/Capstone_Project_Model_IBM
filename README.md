@@ -14,6 +14,7 @@ Pendekatan yang dilakukan adalah klasifikasi dan kesimpulan gaya penulisan teks 
 ## 🔗: Raw Dataset Link
 
 Dataset merupakan dataset yang bersifat open public yang bisa diakses melalui link ini:
+
 https://www.kaggle.com/datasets/shanegerami/ai-vs-human-text/data
 
 ## 👓: Insight & findings
